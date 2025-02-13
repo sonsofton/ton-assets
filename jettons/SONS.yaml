@@ -1,0 +1,13 @@
+name: Sons of Ton
+symbol: SONS
+description: "Telegram-Native Meme Coin on Ton Ecosystem."
+address: UQCj1Y6M0nrSaJvxthNiLFKvCf5V7_WPZ9cdfZ4Q3ASj_Q72
+decimals: 9
+image: "https://raw.githubusercontent.com/sonsofton/sonsofton-brand-assets/refs/heads/main/sonsofton.png"
+websites:
+  - "https://sonsofton.com/"
+social:
+  - "https://x.com/sonsofton"
+  - "http://t.me/sonsofton"
+  - "http://t.me/sonsofton_bot"
+  - "https://t.me/sonsoftoncommunity"
